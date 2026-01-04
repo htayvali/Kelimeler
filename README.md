@@ -13,13 +13,13 @@ in HTML / JavaScript and mobile applications.
 ## 📦 Contents
 
 ### 🇹🇷 Turkish Word List
-- Minimum length: **4 characters**
+- Minimum length: **3 characters**
 - Single-column CSV (no header)
 - UTF-8 encoded
 - Plural, possessive, and case suffixes removed
 - Approx. **125,000+ unique words**
 
-File:turkce_4plus_temizlenmis.csv
+File:turkce_4plus_temizlenmis.csv, turkce_3plus_temizlenmis_v2.csv
 
 ---
 
