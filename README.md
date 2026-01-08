@@ -19,7 +19,7 @@ HTML / JavaScript and mobile applications.
 ## 📦 Contents
 
 ### 🇹🇷 Turkish Word Lists
-- Minimum length: **3 characters**
+- Minimum length: **3 characters**, **4 characters**
 - Single-column CSV
 - UTF-8 encoded
 - Plural, possessive, and case suffixes removed
@@ -31,7 +31,7 @@ HTML / JavaScript and mobile applications.
 
 ---
 
-### 🇬🇧 English Word List
+### EN English Word List
 - Minimum length: **3 characters**
 - Alphabetic words only (`a–z`)
 - Single-column CSV
@@ -56,3 +56,31 @@ nickname validation and user-generated content filtering.
 **Format:**
 ```csv
 word;lang
+**File:** `yasak_kelime_github.csv`
+
+⚙️ **Data Format Summary**
+
+**Word Lists**
+- One word per line
+- No headers
+- CSV-compatible
+- Suitable for direct use with JavaScript `Set`, databases, or mobile applications
+
+**Blacklist**
+- Two columns: `word` and `lang`
+- Header included
+- Designed for fast lookup and filtering
+
+🚀 **Typical Use Cases**
+- Word search games
+- Puzzle and anagram games
+- Client-side word validation
+- Nickname validation
+- Leaderboards
+- Language learning applications
+
+📄 **Notes**
+- Word lists are derived from open dictionary sources and processed using rule-based filtering
+- The blacklist is intended **only for filtering purposes**
+- Context is not evaluated; false positives are possible
+- This dataset is intended for **educational and non-commercial use**
