@@ -56,6 +56,7 @@ nickname validation and user-generated content filtering.
 **Format:**
 ```csv
 word;lang
+
 **File:** `yasak_kelime_github.csv`
 
 ⚙️ **Data Format Summary**
