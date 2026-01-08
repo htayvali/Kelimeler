@@ -84,3 +84,7 @@ word;lang
 - The blacklist is intended **only for filtering purposes**
 - Context is not evaluated; false positives are possible
 - This dataset is intended for **educational and non-commercial use**
+
+## License
+This project is licensed under the MIT License.
+
