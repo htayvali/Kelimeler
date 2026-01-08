@@ -54,8 +54,8 @@ nickname validation and user-generated content filtering.
 - Deduplicated and normalized (lowercase)
 
 **Format:**
-```csv
-- 'word;lang' 
+```
+word;lang
 ```
 **File:** `yasak_kelime_github.csv`
 
